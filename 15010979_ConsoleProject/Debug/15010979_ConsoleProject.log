@@ -1,0 +1,86 @@
+﻿빌드 시작: 2017-04-15 오후 6:49:19
+     1>2 노드의 "D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\15010979_ConsoleProject\15010979_ConsoleProject.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\15010979_ConsoleProject.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt consolemanagement.c
+         consolemanagement.c
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(124): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(199): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(226): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(248): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(337): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(367): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(415): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(483): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(514): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(516): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(614): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(606): warning C4101: 'pVisited' :참조되지 않은 지역 변수입니다.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(634): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(715): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(764): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(797): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(801): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(803): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(812): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : 'fscanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(874): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(878): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(880): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(958): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(993): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(997): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(999): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(1007): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(1012): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 'strcat' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(1020): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(1066): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(1068): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+     1>d:\univ\1학년 2학기\고급 c\15010979_consoleproject\15010979_consoleproject\consolemanagement.c(1095): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\Debug\15010979_ConsoleProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\15010979_ConsoleProject.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\Debug\15010979_ConsoleProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\Debug\15010979_ConsoleProject.lib" /MACHINE:X86 Debug\consolemanagement.obj
+         15010979_ConsoleProject.vcxproj -> D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\Debug\15010979_ConsoleProject.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\Debug\15010979_ConsoleProject.exe.manifest" /manifest Debug\15010979_ConsoleProject.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Debug\15010979_ConsoleProject.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\15010979_ConsoleProject.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\UNIV\1학년 2학기\고급 C\15010979_ConsoleProject\15010979_ConsoleProject\15010979_ConsoleProject.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.33
